@@ -1,0 +1,14 @@
+{
+  "name": "genrate-password",
+  "version": "0.0.1",
+  "description": "Function for generate password",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "OzguYalcin",
+  "license": "ISC",
+  "keywords": [
+    "password"
+  ]
+}
